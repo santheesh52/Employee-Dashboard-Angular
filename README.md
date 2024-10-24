@@ -62,34 +62,37 @@ plaintext
 
 src/<br>
  ├── app/<br>
- │   ├── core/               # Core services and utilities
- │   ├── shared/             # Shared components, directives, and pipes
- │   ├── employee/           # Employee-related components
- │   ├── admin/              # Admin-related components
- │   ├── leave/              # Leave management components
- │   └── app.module.ts       # Root module
- ├── assets/                 # Static assets (images, fonts, etc.)
- ├── environments/           # Environment-specific configurations
- └── styles.css              # Global styles
-Technologies Used
+ │   ├── core/               # Core services and utilities<br>
+ │   ├── shared/             # Shared components, directives, and pipes<br>
+ │   ├── employee/           # Employee-related components<br>
+ │   ├── admin/              # Admin-related components<br>
+ │   ├── leave/              # Leave management components<br>
+ │   └── app.module.ts       # Root module<br>
+ ├── assets/                 # Static assets (images, fonts, etc.)<br>
+ ├── environments/           # Environment-specific configurations<br>
+ └── styles.css              # Global styles<be>
+
+ 
+<h1>Technologies Used</h1>
 Angular: Front-end framework
 Angular Material: UI components library for building responsive, modern web applications
 SweetAlert: For handling pop-up alerts and confirmation dialogs
 RxJS: For handling asynchronous data streams
 TypeScript: For static typing and better code structuring
 SCSS/CSS: For styling the application
-Usage
-Employee Dashboard:
+
+<h1>Usage</h1>
+<h3></h3>Employee Dashboard:</h3>
 
 Employees can log in to view their personal dashboard with details like leave balance, personal info, and more.
-Leave Management:
+<h3>Leave Management:</h3>
 
 Employees can submit leave applications and track their status.
 Admins can view, approve, or reject leave applications.
-Admin Panel:
+<h3>Admin Panel:</h3>
 
 Admins can manage employee details, including adding, updating, or deleting employee records.
-Contributing
+<h3>Contributing</h3>
 Contributions are welcome! Follow these steps to contribute:
 
 Fork the project repository.
