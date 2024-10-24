@@ -74,15 +74,16 @@ src/<br>
 
  
 <h1>Technologies Used</h1>
-Angular: Front-end framework
-Angular Material: UI components library for building responsive, modern web applications
-SweetAlert: For handling pop-up alerts and confirmation dialogs
-RxJS: For handling asynchronous data streams
-TypeScript: For static typing and better code structuring
-SCSS/CSS: For styling the application
-
+<ul>
+      <li>Angular: Front-end framework</li>
+      <li>Angular Material: UI components library for building responsive, modern web applications</li>
+      <li>SweetAlert: For handling pop-up alerts and confirmation dialogs</li>
+      <li>RxJS: For handling asynchronous data streams</li>
+      <li>TypeScript: For static typing and better code structuring</li>
+      SCSS/CSS: For styling the application</li>
+</ul>
 <h1>Usage</h1>
-<h3></h3>Employee Dashboard:</h3>
+<h3>Employee Dashboard:</h3>
 
 Employees can log in to view their personal dashboard with details like leave balance, personal info, and more.
 <h3>Leave Management:</h3>
