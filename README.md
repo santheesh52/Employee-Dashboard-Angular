@@ -80,7 +80,7 @@ src/<br>
       <li>SweetAlert: For handling pop-up alerts and confirmation dialogs</li>
       <li>RxJS: For handling asynchronous data streams</li>
       <li>TypeScript: For static typing and better code structuring</li>
-      SCSS/CSS: For styling the application</li>
+      <li>SCSS/CSS: For styling the application</li>
 </ul>
 <h1>Usage</h1>
 <h3>Employee Dashboard:</h3>
