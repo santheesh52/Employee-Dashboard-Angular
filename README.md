@@ -87,9 +87,10 @@ src/<br>
 
 Employees can log in to view their personal dashboard with details like leave balance, personal info, and more.
 <h3>Leave Management:</h3>
-
-Employees can submit leave applications and track their status.
-Admins can view, approve, or reject leave applications.
+<ul>
+<li>Employees can submit leave applications and track their status.</li>
+<li>Admins can view, approve, or reject leave applications.</li>
+</ul>
 <h3>Admin Panel:</h3>
 
 Admins can manage employee details, including adding, updating, or deleting employee records.
