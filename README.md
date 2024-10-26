@@ -35,7 +35,7 @@ Before you begin, ensure you have met the following requirements:
 
 <span>bash</span>
  
-<a npm install -g @angular/cli >
+ npm install -g @angular/cli 
 Installation
 Clone the repository:
 
@@ -111,5 +111,5 @@ bash
  
 git push origin feature-branch
 Open a pull request on GitHub.
-License
+<h1>License</h1>
 This project is licensed under the MIT License. See the LICENSE file for more information.
