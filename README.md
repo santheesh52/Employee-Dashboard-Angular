@@ -33,9 +33,9 @@ Before you begin, ensure you have met the following requirements:
    <li>Angular CLI (v13 or above) installed globally. You can install it using:</li>
 </ul>
 
-bash
+<span>bash</span>
  
-npm install -g @angular/cli
+<a npm install -g @angular/cli >
 Installation
 Clone the repository:
 
@@ -55,7 +55,7 @@ bash
 ng serve
 Open http://localhost:4200 in your browser to view the application.
 
-Project Structure
+<h1>Project Structure</h1>
 The project follows a modular architecture to keep the codebase organized.
 
 plaintext
