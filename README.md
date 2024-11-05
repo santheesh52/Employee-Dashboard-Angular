@@ -106,6 +106,7 @@ Make your changes and commit:
 bash
  
 git commit -m "Add new feature"
+
 Push to your branch:
 bash
  
