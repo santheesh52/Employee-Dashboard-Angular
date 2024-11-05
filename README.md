@@ -97,7 +97,7 @@ Admins can manage employee details, including adding, updating, or deleting empl
 <h3>Contributing</h3>
 Contributions are welcome! Follow these steps to contribute:
 
-<h6>Fork the project repository.</h6>
+<h5>Fork the project repository.</h5>
 Create a feature branch:
 bash
  
