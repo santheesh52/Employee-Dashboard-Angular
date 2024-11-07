@@ -36,7 +36,7 @@ Before you begin, ensure you have met the following requirements:
 <span>bash</span>
  
  npm install -g @angular/cli 
-Installation
+Installation<hr>
 Clone the repository:
 
 bash
@@ -100,7 +100,6 @@ Contributions are welcome! Follow these steps to contribute:
 <h5>Fork the project repository.</h5>
 Create a feature branch:
 bash
-<kr></kr>
  
 git checkout -b feature-branch
 Make your changes and commit:
