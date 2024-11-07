@@ -100,6 +100,7 @@ Contributions are welcome! Follow these steps to contribute:
 <h5>Fork the project repository.</h5>
 Create a feature branch:
 bash
+<kr></kr>
  
 git checkout -b feature-branch
 Make your changes and commit:
