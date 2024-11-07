@@ -35,7 +35,7 @@ Before you begin, ensure you have met the following requirements:
 
 <span>bash</span>
  
- url("npm install -g @angular/cli") 
+ npm install -g @angular/cli
  
 Installation
 Clone the repository:
